@@ -1,0 +1,36 @@
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-style: bold;
+  font-size: 18px;
+  color: #2e2f42;
+}
+.logo span {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-style: bold;
+  font-size: 18px;
+  color: #4d5ae5;
+}
+
+.nav-list a {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.nav-list a:hover {
+  color: #404bbf;
+}
+
+.contacts a {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: regular;
+  font-size: 16px;
+  color: #434455;
+}
+
+.contacts a:hover {
+  color: #404bbf;
+}
