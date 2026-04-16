@@ -1,0 +1,28 @@
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-title {
+  text-align: center;
+}
+
+.team-item {
+  margin-bottom: 24px;
+  background-color: #ffffff;
+}
+
+.team-name {
+  color: #2e2f42;
+  line-height: 1.2;
+  margin-bottom: 8px;
+}
+
+.team-text {
+  color: #434455;
+  line-height: 1.5;
+}
+
+.team-box {
+  text-align: center;
+  padding: 32px;
+}
