@@ -1,4 +1,7 @@
 .logo {
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-style: bold;
@@ -6,10 +9,15 @@
   color: #2e2f42;
 }
 .logo span {
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-style: bold;
   font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  font-style: bold;
   color: #4d5ae5;
 }
 
@@ -24,9 +32,12 @@
 }
 
 .contacts a {
-  font-family: "Roboto", sans-serif;
   font-weight: 400;
-  font-style: regular;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
   font-size: 16px;
   color: #434455;
 }

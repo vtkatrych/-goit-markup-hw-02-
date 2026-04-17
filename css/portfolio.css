@@ -1,6 +1,25 @@
 .portfolio-title {
+  font-size: 36px;
   color: #2e2f42;
   line-height: 1.11111;
   letter-spacing: 0.02em;
   text-align: center;
+}
+
+.portfolio-title2 {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  margin-top: 32px;
+}
+
+.portfolio-text {
+  color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
