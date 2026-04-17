@@ -3,16 +3,16 @@
 }
 
 .logo2 {
+  font-family: "Raleway", sans-serif;
   color: #f4f4fd;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .logo2 span {
-  font-family: "Raleway", sans-serif;
   color: #4d5ae5;
 }
 
