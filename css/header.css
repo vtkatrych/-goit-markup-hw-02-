@@ -1,5 +1,5 @@
 .logo {
-  line-height: 1.16667;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
@@ -28,7 +28,7 @@
 }
 
 .nav-list a:hover,
-:focus {
+.nav-list a:focus {
   color: #404bbf;
 }
 
@@ -43,6 +43,7 @@
   color: #434455;
 }
 
-.contacts a:hover {
+.contacts a:hover,
+.contacts a:focus {
   color: #404bbf;
 }
