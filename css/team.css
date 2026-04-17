@@ -3,6 +3,7 @@
 }
 
 .team-title {
+  font-size: 36px;
   color: #2e2f42;
   line-height: 1.11111;
   letter-spacing: 0.02em;
@@ -15,17 +16,19 @@
 }
 
 .team-name {
+  font-size: 20px;
+  font-weight: 500;
   color: #2e2f42;
   line-height: 1.2;
-  margin-bottom: 8px;
+  letter-spacing: 0.02em;
 }
 
 .team-text {
   color: #434455;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .team-box {
   text-align: center;
-  padding: 32px;
 }

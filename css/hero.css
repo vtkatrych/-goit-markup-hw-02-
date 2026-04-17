@@ -13,8 +13,7 @@
 
 .btn-primary {
   border-radius: 4px;
-  padding-block: 16px;
-  padding-inline: 32px;
+
   font-family: "Roboto", sans-serif;
   background-color: #4d5ae5;
   cursor: pointer;
@@ -29,6 +28,6 @@
   background-color: #404bbf;
 }
 
-btn-primary:focus {
+.btn-primary:focus {
   background-color: #404bbf;
 }
